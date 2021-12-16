@@ -6,7 +6,7 @@ I'm currently a Ph.D. student at the University of Pennsylvania's Graduate Schoo
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![https://www.linkedin.com/in/jonathon-sun-2b568640/][image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![https://www.linkedin.com/in/jonathon-sun-2b568640/][image][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]]
 <!--
 **Jonathonsun03/Jonathonsun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
